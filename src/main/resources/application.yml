@@ -1,0 +1,9 @@
+application:
+  institute: ICET
+
+spring:
+  datasource:
+    url : jdbc:mysql://localhost:3306/springboot_icet;
+    password: 1234
+    username: root
+
