@@ -17,12 +17,12 @@ public class CourseServiceimpl4 implements CourseServise {
 
         ArrayList<Course> courseList = new ArrayList();
         courseList.add(new Course("Icet java master ",
-                "ICn",
+                "CYJ",
                 "70000",
                 "6",institute));
 
         courseList.add(new Course("Icet Java Developer",
-                "ICD",
+                "CYJD",
                 "80000",
                 "8",institute));
 
