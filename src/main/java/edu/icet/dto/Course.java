@@ -15,7 +15,7 @@ public class Course {
 
     private String fee;
 
-    private String Duration;
+    private String duration;
 
     private String Institute;
 
