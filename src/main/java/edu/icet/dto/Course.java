@@ -9,7 +9,7 @@ import lombok.ToString;
 @AllArgsConstructor
 public class Course {
 
-    private String description;
+    private String Name;
 
     private String code;
 
