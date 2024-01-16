@@ -9,11 +9,11 @@ import lombok.ToString;
 @AllArgsConstructor
 public class Course {
 
-    private String Name;
+    private String name;
 
-    private String Code;
+    private String code;
 
-    private String Fee;
+    private String fee;
 
     private String Duration;
 
