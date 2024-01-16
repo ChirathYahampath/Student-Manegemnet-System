@@ -11,11 +11,11 @@ public class Course {
 
     private String Name;
 
-    private String code;
+    private String Code;
 
-    private String fee;
+    private String Fee;
 
-    private String duration;
+    private String Duration;
 
     private String institute;
 
