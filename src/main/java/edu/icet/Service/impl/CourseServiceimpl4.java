@@ -17,7 +17,7 @@ public class CourseServiceimpl4 implements CourseServise {
 
         ArrayList<Course> courseList = new ArrayList();
         courseList.add(new Course("Icet java master ",
-                "ICm",
+                "ICn",
                 "70000",
                 "6",institute));
 
