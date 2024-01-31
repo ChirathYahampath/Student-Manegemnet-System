@@ -22,7 +22,7 @@ public class CourseServiceimpl4 implements CourseServise {
                 "6",institute));
 
         courseList.add(new Course("Icet Java Developer",
-                "ICd",
+                "ICk",
                 "80000",
                 "8",institute));
 
